@@ -1,0 +1,10 @@
+name: autoates
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - numpy
+  - scipy
+  - rasterio
+  - gdal
+  - scikit-image
